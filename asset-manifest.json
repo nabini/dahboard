@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dahboard/static/css/main.f7ec3dc5.css",
+    "main.js": "/dahboard/static/js/main.4fcbe6ba.js",
+    "index.html": "/dahboard/index.html",
+    "main.f7ec3dc5.css.map": "/dahboard/static/css/main.f7ec3dc5.css.map",
+    "main.4fcbe6ba.js.map": "/dahboard/static/js/main.4fcbe6ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7ec3dc5.css",
+    "static/js/main.4fcbe6ba.js"
+  ]
+}
